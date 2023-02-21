@@ -28,7 +28,7 @@
 					<div class="col-sm-4">
 						<div class="panel">
 							<div class="panel-heading">
-								<div class="panel-title"></div>
+								<div class="panel-title">Siddardha Kolanupaka</div>
 							</div>
 							<div class="panel-body">
 								<img src="images/SIDDHU.jpg" alt="Item" height="300px" width="300px"/>
